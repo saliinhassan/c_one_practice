@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\studentinformation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44CAC1A6-EC07-4169-965F-28493A6D54D3}|studentinformation\\studentinformation.csproj|c:\\users\\pc\\desktop\\studentinformation\\studentinformation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CAC1A6-EC07-4169-965F-28493A6D54D3}|studentinformation\\studentinformation.csproj|solutionrelative:studentinformation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CAC1A6-EC07-4169-965F-28493A6D54D3}|studentinformation\\studentinformation.csproj|C:\\Users\\pc\\Desktop\\studentinformation\\studentinformation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44CAC1A6-EC07-4169-965F-28493A6D54D3}|studentinformation\\studentinformation.csproj|solutionrelative:studentinformation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\studentinformation\\studentinformation\\Form1.cs",
+              "RelativeDocumentMoniker": "studentinformation\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\studentinformation\\studentinformation\\Form1.cs",
+              "RelativeToolTip": "studentinformation\\Form1.cs",
+              "ViewState": "AgIAAAoAAABA/////38uwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:39:22.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\studentinformation\\studentinformation\\Form1.cs",
+              "RelativeDocumentMoniker": "studentinformation\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\studentinformation\\studentinformation\\Form1.cs [Design]",
+              "RelativeToolTip": "studentinformation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:20:31.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
