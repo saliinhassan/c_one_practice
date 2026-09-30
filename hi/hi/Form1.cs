@@ -49,7 +49,7 @@ namespace hi
                 txttips.Text = tips.ToString("c");
               txtamount.Text = total.ToString("C");
             }
-
+             //qabo qaladka input lasoo galiyo
             catch {
                 MessageBox.Show("plz try again invalid error");
             }
