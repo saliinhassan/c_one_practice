@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\hi\hi\bin\Debug\hi.exe.config
+C:\Users\pc\Desktop\hi\hi\bin\Debug\hi.exe
+C:\Users\pc\Desktop\hi\hi\bin\Debug\hi.pdb
+C:\Users\pc\Desktop\hi\hi\obj\Debug\hi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\hi\hi\obj\Debug\hi.txtfood1.resources
+C:\Users\pc\Desktop\hi\hi\obj\Debug\hi.Properties.Resources.resources
+C:\Users\pc\Desktop\hi\hi\obj\Debug\hi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\hi\hi\obj\Debug\hi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\hi\hi\obj\Debug\hi.exe
+C:\Users\pc\Desktop\hi\hi\obj\Debug\hi.pdb
+C:\Users\pc\Desktop\hi\hi\obj\Debug\hi.exe.config
