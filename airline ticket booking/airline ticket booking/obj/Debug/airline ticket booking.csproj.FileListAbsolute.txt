@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\bin\Debug\airline ticket booking.exe.config
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\bin\Debug\airline ticket booking.exe
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\bin\Debug\airline ticket booking.pdb
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\obj\Debug\airline ticket booking.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\obj\Debug\airline_ticket_booking.Form1.resources
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\obj\Debug\airline_ticket_booking.Properties.Resources.resources
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\obj\Debug\airline ticket booking.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\obj\Debug\airline ticket booking.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\obj\Debug\airline ticket booking.exe
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\obj\Debug\airline ticket booking.pdb
+C:\Users\pc\Desktop\airline ticket booking\airline ticket booking\obj\Debug\airline ticket booking.exe.config
