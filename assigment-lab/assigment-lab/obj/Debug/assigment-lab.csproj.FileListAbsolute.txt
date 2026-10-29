@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\bin\Debug\assigment-lab.exe.config
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\bin\Debug\assigment-lab.exe
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\bin\Debug\assigment-lab.pdb
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\obj\Debug\assigment-lab.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\obj\Debug\assigment_lab.Form1.resources
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\obj\Debug\assigment_lab.Properties.Resources.resources
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\obj\Debug\assigment-lab.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\obj\Debug\assigment-lab.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\obj\Debug\assigment-lab.exe
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\obj\Debug\assigment-lab.pdb
+C:\Users\pc\Desktop\assigment-lab\assigment-lab\obj\Debug\assigment-lab.exe.config
