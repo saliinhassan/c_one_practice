@@ -1,12 +1,12 @@
 # C# File Handling System
 
-## 📌 Project Overview
+## Project Overview
 
 The **C# File Handling System** is a Windows Forms application developed using C#. This project demonstrates how to create, write, read, and delete files using the `System.IO` namespace.
 
 The application provides a simple graphical user interface (GUI) that allows users to perform different file operations using buttons.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - To understand file handling in C#.
 - To create and write data into a file.
@@ -15,7 +15,7 @@ The application provides a simple graphical user interface (GUI) that allows use
 - To delete selected display items and remove a file.
 - To practice using Windows Forms controls and event handlers.
 
-## ✨ Features
+##  Features
 
 ### 1. WriteLine
 Creates a file named `myfile.doc` and writes text into it using `StreamWriter` and `WriteLine()`.
@@ -44,7 +44,7 @@ Closes the application.
 
 
 
-## 📚 What I Learned
+## What I Learned
 
 Through this project, I learned how to use file handling methods in C#, work with `StreamWriter` and `StreamReader`, read data using different methods, check whether a file exists, and manage ListBox items in a Windows Forms application.
 
